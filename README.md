@@ -3,15 +3,13 @@ Vibe Matcher — Mini Fashion Recommender
 Vibe Matcher is a simple AI demo that matches fashion products to a user’s vibe (e.g., “cozy minimal home outfit”) using OpenAI embeddings and cosine similarity.
 
 
-⸻
-Description:
 
 	•	Uses OpenAI’s text-embedding-ada-002 model to convert fashion product descriptions into vector embeddings.
 	•	Computes cosine similarity (via scikit-learn) to find the top-3 matching products for a user’s vibe query.
 	•	Handles low-confidence queries with a friendly fallback message.
 	•	Logs evaluation metrics like best similarity score and latency for each query.
 	•	Built as a simple Jupyter notebook prototype to demonstrate AI-driven product recommendation.
-⸻
+
 
 TO RUN THIS:
 
