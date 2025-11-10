@@ -36,5 +36,7 @@ os.environ["OPENAI_API_KEY"] = "your_openai_api_key_here"
 👨‍💻 Author
 
 Devansh Thakkar
+
 Internship Task — AI Recommender System (Vibe Matcher)
+
 Built using Python, OpenAI API, and Cosine Similarity.
