@@ -1,6 +1,8 @@
 Vibe Matcher — Mini Fashion Recommender
 
 Vibe Matcher is a simple AI demo that matches fashion products to a user’s vibe (e.g., “cozy minimal home outfit”) using OpenAI embeddings and cosine similarity.
+
+
 ⸻
 Description:
 
